@@ -3,5 +3,5 @@
 ### By: Fernando Barrz 
 #### List of contents (Algorithms):
 - FizzBuzz
-- ...
+- Factorial numbers using Recursive code
 - ...
